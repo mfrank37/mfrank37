@@ -4,32 +4,27 @@
 
 ### 👯 I’m looking to collaborate on
 
-    - Web applications as a fullstack Dev
-    - Crossplatform Software development
-    - Networking Software Development
+    - Web applications
+    - Software development
 
 ### ✍ I’m currently learning
 
-    - Electronics and Telecommunication Engineering
-    - Full Stack web development
+    - React & Redux
     - Advanced C++
-    - Graphics, Media and Desktop application 
-    - C++ with Networking
 
 ### 💬 Ask me about
 
-    - Engineering and Programming
+    - Software Engineering
 
 ### 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/mungeri-frank-13544a185)
-- [Mail](mailto:mungerifrank@gmail.com)
 
+<!--
 ### ⚡ Fun fact
 
     - I can play Piano and Guitar
     - I play Chess
-<!--
 **mfrank37/mfrank37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

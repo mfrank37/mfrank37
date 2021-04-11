@@ -1,7 +1,5 @@
 # Hi there 👋
 
-## About
-
 ### 👯 I’m looking to collaborate on
 
     - Web applications
